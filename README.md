@@ -26,7 +26,7 @@ The system consists of 2 ECUs, one of them is Application ECU which is: STM32F42
 
 ## Block Diagram
 
-![Alt Text](https://github.com/Ahmed-Mohammed-Hussanein/firstRepo/blob/master/Pic.jpeg)
+![Alt Text](https://github.com/Ahmed-Mohammed-Hussanein/firstRepo/tree/master/3.%20Pics)
 
 ## System Phases
 
